@@ -6,7 +6,7 @@
         que está associada a alterações no cortex visual.</div></p>
         
    
-    <<DIv> <p> COMO ENXERGA QUEM TEM SINDROME DE IRLEM? </p> </DIv>
+    <p><div> COMO ENXERGA QUEM TEM SINDROME DE IRLEM? </div></p>
         <div>Sensação de desfocamento da visão; </div>
         <div>Sensação de que as letras estão se mexendo, vibrando, aglomerando ou desaparecendo; </div> 
         <div>para distinguir duas palavras e para focar em um grupo de palavras</div>
